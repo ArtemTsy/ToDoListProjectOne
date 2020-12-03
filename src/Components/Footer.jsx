@@ -26,7 +26,7 @@ export default function Footer() {
     return (
         <footer>
             <Typography variant="h6" align="center" gutterBottom>
-                Footer
+                Присоединяйтесь к миллионам людей, которые организуют жизнь и работу с помощью To-do list.
             </Typography>
             <BottomNavigation
                 value={value}
